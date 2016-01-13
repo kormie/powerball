@@ -1,0 +1,25 @@
+// Place all the styles related to the Home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.m-t-20 {
+  margin-top:20px;
+}
+.boxes {
+height: 20px;
+}
+.padme {
+  padding-left:10%;
+}
+.white {
+  padding:10px;
+  border: 1px solid #3d3d3d;
+  border-radius:20%;
+}
+.red {
+  padding:10px;
+  border: 1px solid #af2429;
+  background-color:#af2429;
+  border-radius:20%;
+  color:white;
+}
